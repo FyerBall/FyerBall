@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meshari</h1>
-<h3 align="center">I am a passionate developer looking for opportunities to continuously improve and will always aim towards enhancing my current skills and delivering the best quality</h3>
+<h3 align="left">I am a passionate developer looking for opportunities to continuously improve and will always aim towards enhancing my current skills and delivering the best quality</h3>
 
 - 🔭 I’m currently working on **back end development**
 
