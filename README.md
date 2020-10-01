@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Meshari</h1>
-<h3 align="left">I am a passionate developer looking for opportunities to continuously improve and will always aim towards enhancing my current skills and delivering the best quality</h3>
+<h3 align="left">Ambitious and passionate developer looking for opportunities to learn and grow </h3>
 
 - 🔭 I’m currently working on **back end development**
 
