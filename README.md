@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Meshari</h1>
 <h3 align="left">Ambitious and passionate developer looking for opportunities to learn and grow </h3>
 
-- 🔭 I’m currently working on **back end development**
+<!-- - 🔭 I’m currently working on **back end development** -->
 - [Email me](mailto:meshari@meshariabid.com?subject=[GitHub])
 
 <!-- 
