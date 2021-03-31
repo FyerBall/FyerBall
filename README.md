@@ -3,6 +3,7 @@
 <h3 align="left">Ambitious and passionate developer looking for opportunities to learn and grow </h3>
 
 - 🔭 I’m currently working on **back end development**
+- [Email me](mailto:meshari@meshariabid.com?subject=[GitHub])
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
